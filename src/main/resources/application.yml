@@ -1,0 +1,5 @@
+astra:
+  database-id: ea836770-bd32-4270-8387-6ccdde53c61d
+  application-token: AstraCS:bPHBRCugIzrOPfzHrxCKZUdZ:200dc9b73418739915326ac87f25ff9349c1af1d5bc0fd64b1e05198cb670dfd
+  cloud-region: us-east-1
+  keyspace: crm
